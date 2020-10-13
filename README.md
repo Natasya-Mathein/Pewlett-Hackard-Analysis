@@ -26,7 +26,7 @@ Pewlett-Hackard is doing analysis preparing for 'Silver Tsunami". Bobby and huma
 with these 2 tables/additional querries:/n
 
 * overall 37.6% of the workforce are eligible for retiring with the engineers, staffs and assistant engineers are more than 45% of the workforce
-* the mentorship eligibility are very low, the ratio of is not sufficient especially the mentorship between the title is not interchangeable /n 
+* the mentorship eligibility are very low, the ratio of is not sufficient especially the mentorship between the title is not interchangeable  
   even if we categorized them Senior Engineers, Engineers and Assistant Engineers into Engineers Group and the rest will be in Staff Group
 
 
