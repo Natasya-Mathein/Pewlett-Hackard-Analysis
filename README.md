@@ -23,8 +23,10 @@ Pewlett-Hackard is doing analysis preparing for 'Silver Tsunami". Bobby and huma
 
 ##### Summary
 
+with these 2 tables/additional querries:
+* 
 
-<img width="514" alt="current_employee_with_current_title" src="https://user-images.githubusercontent.com/70301884/95864190-a8fef200-0d2a-11eb-8b49-da439b90e9f7.png">
 
-<img width="271" alt="current_employee_with_current_title_counts" src="https://user-images.githubusercontent.com/70301884/95864217-b2885a00-0d2a-11eb-8832-3a70be770d52.png">
+
+[Summary.xlsx](https://github.com/Natasya-Mathein/Pewlett-Hackard-Analysis/files/5371977/Summary.xlsx)
 
