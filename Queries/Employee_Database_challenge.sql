@@ -1,3 +1,4 @@
+-- Deliverable 1
 select employees.emp_no, employees.first_name, employees.last_name 
 	, titles.title, titles.from_date, titles.to_date
 -- into retirement_titles
@@ -19,9 +20,11 @@ from unique_titles
 group by title 
 order by num_titles desc
 
+-- Deliverable 2
+
 SELECT DISTINCT ON (emp_no) employees.emp_no, employees.first_name, employees.last_name, employees.birth_date 
 	,  dept_emp.from_date, dept_emp.to_date, titles.title
-	into mentorship_eligibility
+	-- into mentorship_eligibility
 	from employees
 	inner join dept_emp
 		on employees.emp_no = dept_emp.emp_no

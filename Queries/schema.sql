@@ -54,6 +54,7 @@ CREATE TABLE titles (
   );
 
 SELECT * FROM titles;
+
 -- Module 7.3.1
 SELECT count(*)
 FROM employees
