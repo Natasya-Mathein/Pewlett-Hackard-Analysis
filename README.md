@@ -28,5 +28,5 @@ with these 2 tables/additional querries:
 
 
 
-[Summary.xlsx](https://github.com/Natasya-Mathein/Pewlett-Hackard-Analysis/files/5371977/Summary.xlsx)
+![Summary](https://user-images.githubusercontent.com/70301884/95873398-832b1a80-0d35-11eb-97a8-295770ec252c.png)
 
