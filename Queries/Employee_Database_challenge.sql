@@ -15,7 +15,7 @@ FROM retirement_titles
 ORDER BY emp_no, to_date DESC;
 
 select count(*) as num_titles,title 
-into retiring_titles
+-- into retiring_titles
 from unique_titles
 group by title 
 order by num_titles desc
@@ -33,4 +33,27 @@ SELECT DISTINCT ON (emp_no) employees.emp_no, employees.first_name, employees.la
 	where employees.birth_date between '1965-01-01' and '1965-12-31'
 	and dept_emp.to_date = '9999-01-01'
 	order by emp_no
+	
+-- Deliverable 3
+SELECT DISTINCT ON (emp_no) employees.emp_no, employees.first_name, employees.last_name, employees.birth_date 
+	,  dept_emp.from_date, dept_emp.to_date, titles.title
+	-- into current_employee_with_current_title
+	from employees
+	inner join dept_emp
+		on employees.emp_no = dept_emp.emp_no
+	inner join titles
+		on employees.emp_no = titles.emp_no
+	where dept_emp.to_date = '9999-01-01'
+	and titles.to_date = '9999-01-01'
+	order by emp_no
+
+
+select count(*) as num_titles,title 
+-- into current_employee_with_current_title_counts
+from current_employee_with_current_title
+group by title
+--group by ROLLUP (title)  
+order by num_titles desc
+
+
 		
