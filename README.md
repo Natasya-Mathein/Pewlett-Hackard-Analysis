@@ -16,7 +16,7 @@ Pewlett-Hackard is doing analysis preparing for the "Silver Tsunami" of retiring
 
 <img width="255" alt="Retiring_titles" src="https://user-images.githubusercontent.com/70301884/95859349-19564500-0d24-11eb-98f5-1479ab8110a3.png">
 
-* mentorship_eligibility: Only 1,549 staffs that eligible for mentorship program and PH has 90,398 staff retiring. It means 1 person will have to mentor at least 58 people if the title is interchangeable. But in this case it's very unlikely that Staff would be able to mentor a Senior Engineer or vice versa
+* mentorship_eligibility: Only 1,549 staffs that eligible for mentorship program and PH has 90,398 staff retiring. It means 1 person will have to mentor at least 96 people if the title is interchangeable. But in this case it's very unlikely that Staff would be able to mentor a Senior Engineer or vice versa
 
 <img width="273" alt="Mentorship_ Eligibility" src="https://user-images.githubusercontent.com/70301884/95859356-1d826280-0d24-11eb-9c0c-56132cf23e0d.png">
 
@@ -25,9 +25,9 @@ Pewlett-Hackard is doing analysis preparing for the "Silver Tsunami" of retiring
 
 
 * Overall 37.6% of the workforce are eligible for retiring with the engineers, staffs and assistant engineers accounting for more than 45% of the workforce.
-* The mentorship eligibility is very low. The ratio between mentors vs. vacancies is not sufficient especially when the mentorship titles are not interchangeable even if we categorized the tiles into 2 differents categories. For example: Senior Engineers, Engineers and Assistant Engineers into one mentor group and the rest will be in another mentor group. One mentor will have to mentor between 58 - 60 employees, which is not practical.
+* The mentorship eligibility is very low. The ratio between mentors vs. vacancies is not sufficient especially when the mentorship titles are not interchangeable even if we categorized the tiles into 2 differents categories. For example: Senior Engineers, Engineers and Assistant Engineers into an Engineering Mentor group and the rest will be in a Staff Mentor group. One mentor will have to mentor between 92- 99 employees, which is not practical.
 * Given this data, there are not enough employees that are qualified to be mentors.
 
 
-![Summary](https://user-images.githubusercontent.com/70301884/95873398-832b1a80-0d35-11eb-97a8-295770ec252c.png)
+<img width="524" alt="Summary" src="https://user-images.githubusercontent.com/70301884/95998643-aff53580-0dfa-11eb-9099-8e64cc651023.png">
 
