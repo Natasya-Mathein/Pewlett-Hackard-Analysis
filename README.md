@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 
 ##### Overview
-Pewlett-Hackard is doing analysis preparing for 'Silver Tsunami". Bobby and human resources department were tasked to determine the number of retiring employees per title and identify employees who are eligible to participate in the mentorship program. We will write a report that summarizes the analysis and help prepare for the 'Silver Tsunami'.
+Pewlett-Hackard is doing analysis preparing for the "Silver Tsunami" of retiring employees. Bobby and the Human Resources department were tasked to determine the number of retiring employees per title and identify employees who are eligible to participate in the mentorship program. This report summarizes the analysis and and helps the company getting ready for the upcoming "Silver Tsunami".
 
 ##### Results
-* retirement_titles: as you can see there are employees that have multiple titles
+* retirement_titles: The retiring employees have had multiple titles over the years due to promotions or other job changes, as shown here:
 
 <img width="520" alt="Retirement_titles" src="https://user-images.githubusercontent.com/70301884/95859325-0c395600-0d24-11eb-945c-38acb962f3fa.png">
 
