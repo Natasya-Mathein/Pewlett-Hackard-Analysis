@@ -24,9 +24,9 @@ Pewlett-Hackard is doing analysis preparing for the "Silver Tsunami" of retiring
 ##### Summary
 
 
-* overall 37.6% of the workforce are eligible for retiring with the engineers, staffs and assistant engineers are more than 45% of the workforce
-* the mentorship eligibility are very low, the ratio between mentors vs. vacancies is not sufficient especially the mentorship between the title is not interchangeable even if we categorized the tiles into 2 differents categories. for example: Senior Engineers, Engineers and Assistant Engineers into Engineers Group and the rest will be in Staff Group. One mentor will have to mentor between 58 - 60 staffs.
-
+* Overall 37.6% of the workforce are eligible for retiring with the engineers, staffs and assistant engineers accounting for more than 45% of the workforce.
+* The mentorship eligibility is very low, the ratio between mentors vs. vacancies is not sufficient especially when the mentorship titles are not interchangeable even if we categorized the tiles into 2 differents categories. for example: Senior Engineers, Engineers and Assistant Engineers into Engineers Group and the rest will be in Staff Group. One mentor will have to mentor between 58 - 60 staff, which is not practical.
+* Given this data, there are not enough employees that are qualified to be mentors.
 
 
 ![Summary](https://user-images.githubusercontent.com/70301884/95873398-832b1a80-0d35-11eb-97a8-295770ec252c.png)
