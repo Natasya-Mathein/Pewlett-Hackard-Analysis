@@ -8,11 +8,11 @@ Pewlett-Hackard is doing analysis preparing for the "Silver Tsunami" of retiring
 
 <img width="520" alt="Retirement_titles" src="https://user-images.githubusercontent.com/70301884/95859325-0c395600-0d24-11eb-945c-38acb962f3fa.png">
 
-* unique_titles: there are 90,398 unique retirement titles out of 133,776 titles. 
+* unique_titles: Of the retiring employees, there are 90,398 with current titles, but there are 133,776 rows if the total title history is included.
 
 <img width="406" alt="Unique_titles" src="https://user-images.githubusercontent.com/70301884/95859344-152a2780-0d24-11eb-83d1-742e2b496a45.png">
 
-* retiring_titles: Senior Engineer is 32.5%, Senior Staff is 31.3%, Engineer is 15.7%, Technique Leader is 5%, Assistant Engineer is 1.9% of the retiree staffs and 2 Managers are retiring.
+* retiring_titles: Below is a summary of retiring employees by title, with the employee count and the percentage
 
 <img width="255" alt="Retiring_titles" src="https://user-images.githubusercontent.com/70301884/95859349-19564500-0d24-11eb-98f5-1479ab8110a3.png">
 
